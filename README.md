@@ -1,30 +1,56 @@
 # 🚀 Big Data Analysis Repository
 ### CS41S1 • School Year 2026–2027 • 1st Semester
 
+---
+
 > *"The important thing is not to stop questioning."*
 >
-> — Albert Einstein
+> **— Albert Einstein**
 >
 > *(For example: "Why is my code not working?" is a good start. "Did I save the file?" is usually the next question.)*
 
+---
+
+## 👋 Welcome
+
 Welcome, future data scientists, spreadsheet warriors, and code bug hunters!
 
-This repository serves as the **official headquarters** of our Big Data Analysis class. Think of this place as a cross between a laboratory, a library, a submission portal, a treasure hunt, and occasionally, a crime scene where mysteriously broken code is investigated.
+This repository serves as the **official headquarters** of our Big Data Analysis course.
+
+Think of this place as a cross between:
+
+🔬 A laboratory  
+📚 A library  
+📦 A submission portal  
+🗺️ A treasure hunt  
+🚔 And occasionally, a crime scene where mysteriously broken code is investigated
+
+If it's related to the course, you'll probably find it here.
 
 ---
 
 ## 🎯 Purpose of this Repository
 
-This repository will be used for:
+This repository will serve as our central hub for:
 
-✅ Distribution of laboratory materials  
-✅ Sample datasets and exercises  
-✅ Class resources and references  
-✅ Activity instructions and guides  
-✅ Laboratory activity submissions  
-✅ Version control practice (because "Final_Final_REALLY_FINAL_v7.xlsx" is not version control)
+- ✅ Distribution of laboratory materials
+- ✅ Sample datasets and exercises
+- ✅ Class resources and references
+- ✅ Activity instructions and guides
+- ✅ Laboratory activity submissions
+- ✅ Version control practice
 
-If it's important for the course, chances are you'll find it here.
+Because let's be honest...
+
+```text
+Final.xlsx
+Final_v2.xlsx
+Final_v2_REVISED.xlsx
+Final_v2_REVISED_FINAL.xlsx
+Final_v2_REVISED_FINAL_REAL.xlsx
+```
+
+...is **not** version control.
 
 ---
 
@@ -38,40 +64,70 @@ Throughout the semester, we will explore topics such as:
 - Big Data Concepts
 - Data Visualization
 - Machine Learning Fundamentals
+- Data Storytelling
 - How to Spend 3 Hours Debugging a Missing Comma
 
-By the end of the course, you'll be capable of transforming raw data into meaningful insights instead of just staring at spreadsheets hoping they explain themselves.
+By the end of the course, you'll be capable of transforming raw data into meaningful insights instead of staring at spreadsheets and hoping they explain themselves.
+
+*Spoiler alert: they won't.*
 
 ---
 
 ## 📁 Repository Structure
 
-The exact contents of this repository remain classified at this time. 🔒
+### 🔒 Classified Information
+
+The exact contents of this repository remain classified at this time.
 
 What lies beneath these folders?
 
 - Laboratory activities waiting to challenge your sanity
-- Datasets ranging from "that's easy" to "why does this file have 347 columns?"
-- Resources carefully curated for aspiring data analysts
+- Datasets ranging from *"That's easy"* to *"Why does this file have 347 columns?"*
+- Carefully curated learning resources
 - Submission portals where grades, glory, and occasional heartbreak await
 
 For now, the repository structure is intentionally shrouded in mystery.
 
 ```text
 /
-├── ???/
-├── ???/
-├── ???/
-├── ???/
-├── ???/
+├── [REDACTED]
+├── [REDACTED]
+├── [REDACTED]
+├── [REDACTED]
+├── [REDACTED]
 └── README.md
+```
+
+> Repository contents will gradually reveal themselves throughout the semester.
+>
+> Trust the process.
+>
+> The data knows.
 
 ---
 
-## ❓ Questions, Recommendations, and Violent Reactions
+## 📥 Laboratory Activity Submissions
 
-Should you have any questions, recommendations, clarifications, complaints, feature requests, bug discoveries, emotional damage caused by datasets, or violent reactions toward laboratory activities, please do not hesitate to reach out.
+At various points during the semester, laboratory activities will be submitted through this repository.
 
-Together, we shall investigate the matter with professionalism, curiosity, and a reasonable amount of panic.
+### Before You Submit
 
-> Keep calm and check the CSV file.
+Please ensure that:
+
+- ✅ Your files open correctly
+- ✅ Your code actually runs
+- ✅ You uploaded the correct file
+- ✅ You followed the instructions
+- ✅ You didn't accidentally submit your classmate's work
+
+And most importantly:
+
+```python
+# Did you save the file?
+```
+
+---
+
+## ⚠️ Survival Guide
+
+To maximize your chances of surviving the semester
