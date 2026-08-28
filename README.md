@@ -130,4 +130,41 @@ And most importantly:
 
 ## ⚠️ Survival Guide
 
-To maximize your chances of surviving the semester
+To maximize your chances of surviving the semester:
+
+- Commit often
+- Back up your work
+- Read the instructions
+- Test your code
+- Ask questions
+- Start laboratory activities early
+
+Remember:
+
+> A missing semicolon can ruin your day.
+>
+> A missing dataset can ruin your week.
+
+---
+
+## ❓ Questions, Recommendations, and Violent Reactions
+
+Should you have any questions, recommendations, clarifications, complaints, feature requests, bug discoveries, emotional damage caused by datasets, or violent reactions toward laboratory activities, please do not hesitate to reach out.
+
+Together, we shall investigate the matter with professionalism, curiosity, and a reasonable amount of panic.
+
+> Keep calm and check the CSV file.
+
+---
+
+## 🎓 Final Words
+
+Welcome to **Big Data Analysis**.
+
+May your datasets be clean, your visualizations meaningful, your models accurate, and your code executable.
+
+And remember:
+
+> The data never lies.
+>
+> Unfortunately, it also never explains itself.
